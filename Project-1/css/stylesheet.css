@@ -1,0 +1,87 @@
+.noodletown {
+    width: 100%;
+    border-style: double;
+    border-width: thick;
+    border-radius: 25px;
+    filter: grayscale(50%);
+}
+
+.betweencity {
+    padding: 160px;
+}
+
+.noodletime {
+    width: 100%;
+    border-style: double;
+    border-width: thick;
+    border-radius: 25px;
+    filter: grayscale(50%);
+}
+
+.container {
+    margin-bottom: 400px;
+    padding: 10px
+}
+
+.title {
+    font-family: "pauline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    color: #25373e;
+    position: relative;
+    left: 10%;
+}
+
+.headings {
+    font-family: "proxima-soft", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: #25373e;
+}
+
+body {
+    font-family: "proxima-soft", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #adb4b8;
+}
+
+.columnone {
+    float: left;
+    width: 25%;
+}
+
+#And {
+    position: absolute;
+    left: 33%;
+    top: -20px;
+    z-index: -1;
+    font-size: 100px;
+    opacity: .5;
+}
+
+.lowersection {
+    float: left;
+    width: 50%;
+    margin-left: 10%;
+}
+
+
+#Noodles {
+    width: 40%;
+    position: relative;
+    left: 150px;
+    top: -35px;
+}
+
+#Chicken {
+    position: relative;
+    top: 30px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    opacity: .5;
+}
